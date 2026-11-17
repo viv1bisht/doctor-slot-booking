@@ -54,12 +54,3 @@ MongoDB with Mongoose.
 1. Unique index on requestId.
 2. Unique compound index on doctorId and slotTime.
 
-## Problem 2
-
-Pending: Problem 2 requirements were not included
-in the provided assessment document.
-
-## Problem 3
-
-Pending: Problem 3 requirements were not included
-in the provided assessment document.
